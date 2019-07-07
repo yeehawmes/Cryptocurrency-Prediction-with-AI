@@ -11,3 +11,6 @@ on-time flight arrivals<p></P>
 https://notebooks.azure.com/tkim581/projects/ml-notebooks<p></P>
 keras<p></P>
 https://notebooks.azure.com/tkim581/projects/keras<p></P>
+
+Personal project: Bike Sharing Demand
+https://notebooks.azure.com/tkim581/projects/bike-sharing-demand
